@@ -1,0 +1,60 @@
+C:\Users\welcome\source\repos\vstudio\vstudio\bin\Debug\net6.0\vstudio.exe
+C:\Users\welcome\source\repos\vstudio\vstudio\bin\Debug\net6.0\vstudio.deps.json
+C:\Users\welcome\source\repos\vstudio\vstudio\bin\Debug\net6.0\vstudio.runtimeconfig.json
+C:\Users\welcome\source\repos\vstudio\vstudio\bin\Debug\net6.0\vstudio.dll
+C:\Users\welcome\source\repos\vstudio\vstudio\bin\Debug\net6.0\vstudio.pdb
+C:\Users\welcome\source\repos\vstudio\vstudio\obj\Debug\net6.0\vstudio.csproj.AssemblyReference.cache
+C:\Users\welcome\source\repos\vstudio\vstudio\obj\Debug\net6.0\vstudio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\welcome\source\repos\vstudio\vstudio\obj\Debug\net6.0\vstudio.AssemblyInfoInputs.cache
+C:\Users\welcome\source\repos\vstudio\vstudio\obj\Debug\net6.0\vstudio.AssemblyInfo.cs
+C:\Users\welcome\source\repos\vstudio\vstudio\obj\Debug\net6.0\vstudio.csproj.CoreCompileInputs.cache
+C:\Users\welcome\source\repos\vstudio\vstudio\obj\Debug\net6.0\vstudio.dll
+C:\Users\welcome\source\repos\vstudio\vstudio\obj\Debug\net6.0\refint\vstudio.dll
+C:\Users\welcome\source\repos\vstudio\vstudio\obj\Debug\net6.0\vstudio.pdb
+C:\Users\welcome\source\repos\vstudio\vstudio\obj\Debug\net6.0\vstudio.genruntimeconfig.cache
+C:\Users\welcome\source\repos\vstudio\vstudio\obj\Debug\net6.0\ref\vstudio.dll
+C:\Users\welcome\source\repos\vstudio\vstudio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\welcome\source\repos\vstudio\vstudio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\welcome\source\repos\vstudio\vstudio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\welcome\source\repos\vstudio\vstudio\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\welcome\source\repos\vstudio\vstudio\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\welcome\source\repos\vstudio\vstudio\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\welcome\source\repos\vstudio\vstudio\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\welcome\source\repos\vstudio\vstudio\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\welcome\source\repos\vstudio\vstudio\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\welcome\source\repos\vstudio\vstudio\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\welcome\source\repos\vstudio\vstudio\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\welcome\source\repos\vstudio\vstudio\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\welcome\source\repos\vstudio\vstudio\bin\Debug\net6.0\Npgsql.dll
+C:\Users\welcome\source\repos\vstudio\vstudio\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\welcome\source\repos\vstudio\vstudio\obj\Debug\net6.0\vstudio.csproj.CopyComplete
+C:\Users\welcome\Desktop\Github uploadeddd\CRUD-C#-PostgreSQL\vstudio\bin\Debug\net6.0\vstudio.exe
+C:\Users\welcome\Desktop\Github uploadeddd\CRUD-C#-PostgreSQL\vstudio\bin\Debug\net6.0\vstudio.deps.json
+C:\Users\welcome\Desktop\Github uploadeddd\CRUD-C#-PostgreSQL\vstudio\bin\Debug\net6.0\vstudio.runtimeconfig.json
+C:\Users\welcome\Desktop\Github uploadeddd\CRUD-C#-PostgreSQL\vstudio\bin\Debug\net6.0\vstudio.dll
+C:\Users\welcome\Desktop\Github uploadeddd\CRUD-C#-PostgreSQL\vstudio\bin\Debug\net6.0\vstudio.pdb
+C:\Users\welcome\Desktop\Github uploadeddd\CRUD-C#-PostgreSQL\vstudio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\welcome\Desktop\Github uploadeddd\CRUD-C#-PostgreSQL\vstudio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\welcome\Desktop\Github uploadeddd\CRUD-C#-PostgreSQL\vstudio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\welcome\Desktop\Github uploadeddd\CRUD-C#-PostgreSQL\vstudio\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\welcome\Desktop\Github uploadeddd\CRUD-C#-PostgreSQL\vstudio\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\welcome\Desktop\Github uploadeddd\CRUD-C#-PostgreSQL\vstudio\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\welcome\Desktop\Github uploadeddd\CRUD-C#-PostgreSQL\vstudio\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\welcome\Desktop\Github uploadeddd\CRUD-C#-PostgreSQL\vstudio\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\welcome\Desktop\Github uploadeddd\CRUD-C#-PostgreSQL\vstudio\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\welcome\Desktop\Github uploadeddd\CRUD-C#-PostgreSQL\vstudio\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\welcome\Desktop\Github uploadeddd\CRUD-C#-PostgreSQL\vstudio\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\welcome\Desktop\Github uploadeddd\CRUD-C#-PostgreSQL\vstudio\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\welcome\Desktop\Github uploadeddd\CRUD-C#-PostgreSQL\vstudio\bin\Debug\net6.0\Npgsql.dll
+C:\Users\welcome\Desktop\Github uploadeddd\CRUD-C#-PostgreSQL\vstudio\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\welcome\Desktop\Github uploadeddd\CRUD-C#-PostgreSQL\vstudio\obj\Debug\net6.0\vstudio.csproj.AssemblyReference.cache
+C:\Users\welcome\Desktop\Github uploadeddd\CRUD-C#-PostgreSQL\vstudio\obj\Debug\net6.0\vstudio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\welcome\Desktop\Github uploadeddd\CRUD-C#-PostgreSQL\vstudio\obj\Debug\net6.0\vstudio.AssemblyInfoInputs.cache
+C:\Users\welcome\Desktop\Github uploadeddd\CRUD-C#-PostgreSQL\vstudio\obj\Debug\net6.0\vstudio.AssemblyInfo.cs
+C:\Users\welcome\Desktop\Github uploadeddd\CRUD-C#-PostgreSQL\vstudio\obj\Debug\net6.0\vstudio.csproj.CoreCompileInputs.cache
+C:\Users\welcome\Desktop\Github uploadeddd\CRUD-C#-PostgreSQL\vstudio\obj\Debug\net6.0\vstudio.csproj.CopyComplete
+C:\Users\welcome\Desktop\Github uploadeddd\CRUD-C#-PostgreSQL\vstudio\obj\Debug\net6.0\vstudio.dll
+C:\Users\welcome\Desktop\Github uploadeddd\CRUD-C#-PostgreSQL\vstudio\obj\Debug\net6.0\refint\vstudio.dll
+C:\Users\welcome\Desktop\Github uploadeddd\CRUD-C#-PostgreSQL\vstudio\obj\Debug\net6.0\vstudio.pdb
+C:\Users\welcome\Desktop\Github uploadeddd\CRUD-C#-PostgreSQL\vstudio\obj\Debug\net6.0\vstudio.genruntimeconfig.cache
+C:\Users\welcome\Desktop\Github uploadeddd\CRUD-C#-PostgreSQL\vstudio\obj\Debug\net6.0\ref\vstudio.dll
